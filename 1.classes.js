@@ -12,6 +12,6 @@ class Person {
 }
 const person = new Person('Anna', 'Simpson', 22, 'anna@yahoo.com');
 
-person.toString();
+console.log(person.toString());
 
 
